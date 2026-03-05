@@ -43,7 +43,6 @@ student-performance-analysis/
 ✔ Beginner-Friendly Code  
 
 ## 📷 Output
-(Add your output.png screenshot below this line)
 
 ![Student Performance](output.png)
 
