@@ -43,7 +43,6 @@ student-performance-analysis/
 ✔ Beginner-Friendly Code  
 
 ## 📷 Output
-
 ![Student Performance](output.png)
 
 ## 🚀 Future Improvements
